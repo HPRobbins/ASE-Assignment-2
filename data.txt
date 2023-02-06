@@ -83,7 +83,7 @@ Male - 3Yrs 10Mths 4Wks
 Animal ID: 26496
 Vaccination Status: Vaccinated
 Location: Carroll County
-Available For Adoption: Yes
+Available For Adoption: No
 Type: Dog
 Additional Details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula.
 * * *
@@ -260,7 +260,7 @@ Female - 11Yrs (approx)
 Animal ID: 26650
 Vaccination Status: Vaccinated
 Location: Carroll County
-Available For Adoption: Yes
+Available For Adoption: No
 Type: Dog
 Additional Details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula.
 * * *
@@ -273,7 +273,7 @@ Female - 3Yrs 3Mths 3Wks (approx)
 Animal ID: 25788
 Vaccination Status: Vaccinated
 Location: Carroll County
-Available For Adoption: Yes
+Available For Adoption: No
 Type: Dog
 Additional Details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ante tellus, sagittis at urna sit amet, faucibus faucibus lacus. Suspendisse rutrum nisl in augue convallis sollicitudin. Quisque nulla risus, ultrices vitae sollicitudin quis, pellentesque a ligula.
 * * *
